@@ -436,7 +436,6 @@ class GameEngine {
         return tile ? tile.material : 'grass';
     }
 
-    // ====================== My code ===============================
     // ===================== Draw easy path =========================
     easyPath() {
         let availablePath = [];
